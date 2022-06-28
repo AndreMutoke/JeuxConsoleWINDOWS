@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1656383939 source:c:\users\andremutoke\documents\gaming_console_andremutoke\lib\blocks.c
+	"blocks.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656292943 c:\users\andremutoke\documents\gaming_console_andremutoke\lib\blocks.h
+
+1656394618 source:c:\users\andremutoke\documents\gaming_console_andremutoke\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"lib/blocks.h"
+	"lib/screen.h"
+	<stdbool.h>
+	"lib/niveau.h"
+	"lib/menu.h"
+
+1656380593 source:c:\users\andremutoke\documents\gaming_console_andremutoke\lib\screen.c
+	"screen.h"
+	"blocks.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656420590 c:\users\andremutoke\documents\gaming_console_andremutoke\lib\screen.h
+
+1656384358 source:c:\users\andremutoke\documents\gaming_console_andremutoke\lib\niveau.c
+	"niveau.h"
+	<windows.h>
+	"blocks.h"
+	"screen.h"
+
+1656381674 c:\users\andremutoke\documents\gaming_console_andremutoke\lib\niveau.h
+	<windows.h>
+	"blocks.h"
+	"screen.h"
+
+1656422967 source:c:\users\andremutoke\documents\gaming_console_andremutoke\lib\menu.c
+	"menu.h"
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"blocks.h"
+	"screen.h"
+	"niveau.h"
+	"game.h"
+
+1656404748 c:\users\andremutoke\documents\gaming_console_andremutoke\lib\menu.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"blocks.h"
+	"screen.h"
+	"niveau.h"
+
+1656426513 c:\users\andremutoke\documents\gaming_console_andremutoke\lib\game.h
+	<conio.h>
+	"min_to_max.h"
+	"menu.h"
+
+1656426378 c:\users\andremutoke\documents\gaming_console_andremutoke\lib\min_to_max.h
+
