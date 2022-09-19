@@ -2,7 +2,7 @@
 #include "blocks.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include <windows.h>
+//#include <windows.h>
 
 Pixel initScreen(Pixel Ecran, int x, int y, Etat state)
 {

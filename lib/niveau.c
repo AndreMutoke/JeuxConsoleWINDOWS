@@ -93,7 +93,7 @@ void on_level_of(Pixel *Ecran, int ligne, int colonne, niveau level)
                     *(Ecran+i*colonne+17) = initNiveau1(*(Ecran+i*colonne+17), i, 17, OBJECTIF);
                     *(Ecran+i*colonne+18) = initNiveau1(*(Ecran+i*colonne+18), i, 18, OBJECTIF);
                     *(Ecran+i*colonne+4) = initNiveau1(*(Ecran+i*colonne+4), i, 4, CAISSES);
-                    *(Ecran+i*colonne+6) = initNiveau1(*(Ecran+i*colonne+6), i, 6, CAISSES);
+                    *(Ecran+i*colonne+7) = initNiveau1(*(Ecran+i*colonne+7), i, 6, CAISSES);
                 }
                 else if(i==8)
                 {

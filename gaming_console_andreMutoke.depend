@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1656383939 source:c:\users\andremutoke\documents\gaming_console_andremutoke\lib\blocks.c
+1657123976 source:c:\users\andremutoke\documents\gaming_console_andremutoke\lib\blocks.c
 	"blocks.h"
 	<stdio.h>
 	<stdlib.h>
@@ -17,16 +17,15 @@
 	"lib/niveau.h"
 	"lib/menu.h"
 
-1656380593 source:c:\users\andremutoke\documents\gaming_console_andremutoke\lib\screen.c
+1656497339 source:c:\users\andremutoke\documents\gaming_console_andremutoke\lib\screen.c
 	"screen.h"
 	"blocks.h"
 	<stdio.h>
 	<stdlib.h>
-	<windows.h>
 
 1656420590 c:\users\andremutoke\documents\gaming_console_andremutoke\lib\screen.h
 
-1656384358 source:c:\users\andremutoke\documents\gaming_console_andremutoke\lib\niveau.c
+1656609995 source:c:\users\andremutoke\documents\gaming_console_andremutoke\lib\niveau.c
 	"niveau.h"
 	<windows.h>
 	"blocks.h"
@@ -58,10 +57,12 @@
 	"screen.h"
 	"niveau.h"
 
-1656426513 c:\users\andremutoke\documents\gaming_console_andremutoke\lib\game.h
+1657262810 c:\users\andremutoke\documents\gaming_console_andremutoke\lib\game.h
 	<conio.h>
 	"min_to_max.h"
+	"screen.h"
 	"menu.h"
+	<stdbool.h>
 
 1656426378 c:\users\andremutoke\documents\gaming_console_andremutoke\lib\min_to_max.h
 
